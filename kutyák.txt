@@ -10,3 +10,4 @@ fotos
 vörös
 faj
 ménkun
+j
